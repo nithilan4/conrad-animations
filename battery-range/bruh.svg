@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="54px" height="100px" viewBox="0 0 54 100" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="Group">
+    <path d="M0 0L54 0L54 5L0 5L0 0Z" transform="translate(0 95)" id="Rectangle-3" fill="#0F0027" stroke="none" />
+    <path d="M0 0L54 0L54 12L0 12L0 0Z" id="Rectangle-4" fill="#0F0027" stroke="none" />
+    <path d="M0 0L5 0L5 100L0 100L0 0Z" id="Rectangle" fill="#0F0027" stroke="none" />
+    <path d="M0 0L5 0L5 100L0 100L0 0Z" transform="translate(49 0)" id="Rectangle-2" fill="#0F0027" stroke="none" />
+    <g id="noun_Battery_25800">
+      <g id="Group">
+        <path d="M15 5C15 5 15 0 20 0L35 0C40 0 40 5 40 5L15 5ZM9.81818 7L44.1818 7C44.1818 7 54 7 54 16.7889L54 90.2105C54 100 44.1818 100 44.1818 100L9.81818 100C9.81818 100 0 99.9199 0 90.2105L0 16.7889C0 7 9.81818 7 9.81818 7ZM44.1111 12.0005L9.88889 12.0005C9.88889 12.0005 5 11.8494 5 16.8828L5 90.1177C5 95 9.88889 95 9.88889 95L44.1111 95C44.1111 95 49 95 49 90.1177L49 16.8828C49 12.0005 44.1111 12.0005 44.1111 12.0005Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+body {
+  background: linear-gradient(45deg, #66d5ff, #429cff);
+  overflow: hidden;
+  height: 100vh;
+  width: 100%;
+  margin: 0;
+}
+
+#plane {
+  height: 20vh;
+  transform: translate(100%, -50%);
+  top: 35%;
+  position: absolute;
+  right: 0%;
+  transition: 2s all;
+}
+
+#meter-body {
+  position: absolute;
+  transform: translate(-50%, 0%);
+  bottom: 0;
+  left: 50%;
+  height: 30vh;
+}
+
+#dial {
+  position: absolute;
+  bottom: -4.25%;
+  transform-origin: 50% 88%;
+  left: 48%;
+  height: 35vh;
+  transition: 1.5s all;
+}
+
+#speed {
+  position: absolute;
+  font-family: Lato;
+  transform: translate(-50%, -50%);
+  color: black;
+  font-size: 8vh;
+  left: 50%;
+  bottom: 18%;
+}

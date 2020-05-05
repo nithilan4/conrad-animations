@@ -1,0 +1,76 @@
+.graph-container {
+  width: 1200px;
+  background-color: #0F0027;
+  padding: 175px 150px;
+}
+
+.graph-title {
+  width: 100%;
+  text-align: center;
+  font-family: Lato;
+  font-weight: normal;
+  margin: 0 0 60px 0;
+  color: white;
+  font-size: 40px;
+}
+
+.bar-container {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.bar-container.horizontal {
+  border-left: 2px solid white;
+  flex-direction: column;
+  width: -webkit-fill-available;
+}
+
+.label-container.horizontal {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+}
+
+.bar-body {
+  background-color: #4BE046;
+  height: 100%;
+  width: 0%;
+  border-radius: 10px;
+}
+
+.bar-label {
+  font-family: Lato;
+  margin: 20px 10px 20px 10px;
+  font-size: 30px;
+  color: white;
+}
+
+.bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin: 20px;
+}
+
+.bar-label, .bar {
+  height: 80px;
+  line-height: 80px;
+}
+
+.data-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.outer-icon {
+  float: right;
+  color: #4BE046 !important;
+  margin-left: 20px;
+}
+
+.inner-label {
+  float: right;
+  color: #0F0027 !important;
+  margin-right: 20px;
+  font-size: 30px;
+}
